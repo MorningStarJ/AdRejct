@@ -1,11 +1,11 @@
 # host-keyword,vinuxhome,reject
-host-keyword,matthewsery,reject
-host-keyword,maximiliansery,reject
-host-keyword,haireig,reject
-host-keyword,braincf,reject
-host-keyword,maxwellsery,reject
-host-keyword,zxptw,reject
-host-keyword,xiongzhangad,reject
-DOMAIN,s13.cnzz.com,reject
-host-keyword,n8v9yw,reject
-host-keyword,vinuxhome,reject
+DOMAIN-KEYWORD,matthewsery,REJECT
+DOMAIN-KEYWORD,maximiliansery,REJECT
+DOMAIN-KEYWORD,haireig,REJECT
+DOMAIN-KEYWORD,braincf,REJECT
+DOMAIN-KEYWORD,maxwellsery,REJECT
+DOMAIN-KEYWORD,zxptw,REJECT
+DOMAIN-KEYWORD,xiongzhangad,REJECT
+DOMAIN,s13.cnzz.com,REJECT
+DOMAIN-KEYWORD,n8v9yw,REJECT
+DOMAIN-KEYWORD,vinuxhome,REJECT
